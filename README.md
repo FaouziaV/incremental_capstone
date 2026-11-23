@@ -13,7 +13,7 @@ Sprint 1 focuses on designing and creating the relational database for VitalWatc
 ### Database
 
 - **Database name:** `VitalWatchDB`
-- **Database:** MySQL 8 or SQL Server (as configured for the training track)
+- **Database:** SQL Server (as configured for the training track)
 
 ## Entities / Tables
 
